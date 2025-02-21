@@ -18,7 +18,7 @@ TWILIO_PHONE_NUMBER = "your_twilio_phone_number"
 
 
 students = {
-    "Prathamesh Chavan": {"roll_no": 1, "image": "Prathamesh.jpg", "parent_contact": "+1234567890"},
+    "Prathamesh Chavan": {"roll_no": 1, "image": "Bill_Gates.jpg", "parent_contact": "+1234567890"},
     "Mark Zuckerberg": {"roll_no": 2, "image": "mark_img.jpg", "parent_contact": "+1234567891"},
     "Jack Ma": {"roll_no": 3, "image": "jack_img.jpg", "parent_contact": "+1234567892"},
     "Akshada Jadhav": {"roll_no": 4, "image": "Akshada_img.jpg", "parent_contact": "+1234567893"},
